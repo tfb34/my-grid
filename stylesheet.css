@@ -1,15 +1,15 @@
 body{
     padding:0;margin: 0;
-    background-color: pink;/*delete*/
-}
-.container{
-    padding: 1em;
+    background-color: pink;
 }
 p{
-	background-color: #6C98B6;/*delete*/
+    background-color: #6C98B6;
     padding: 0;margin:0;
     text-align: center;
-    border:1px solid pink;
+}
+
+.container{
+    padding: 1em;
 }
 .row,
 .column{
